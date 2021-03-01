@@ -1,0 +1,44 @@
+# Spanish translations for com.github.ssmgcode.hello-packaging package.
+# Copyright (C) 2021 THE com.github.ssmgcode.hello-packaging'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the com.github.ssmgcode.hello-packaging package.
+# Automatically generated, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: com.github.ssmgcode.hello-packaging\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-01 14:32-0600\n"
+"PO-Revision-Date: 2021-03-01 14:32-0600\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/Application.vala:10 src/Application.vala:15
+#: data/hello-packaging.desktop.in:3 data/hello-packaging.desktop.in:4
+#: data/hello-packaging.appdata.xml.in:6
+msgid "Hello Packaging"
+msgstr ""
+
+#: data/hello-packaging.desktop.in:5
+msgid "Proves that we can use Vala and Gtk and bundle into a .deb file"
+msgstr ""
+
+#: data/hello-packaging.desktop.in:8
+msgid "application-default-icon"
+msgstr ""
+
+#: data/hello-packaging.desktop.in:11
+msgid "Hello;Packaging;Example"
+msgstr ""
+
+#: data/hello-packaging.appdata.xml.in:7
+msgid "Hello Packaging App"
+msgstr ""
+
+#: data/hello-packaging.appdata.xml.in:9
+msgid "Hello Packaing Label App."
+msgstr ""
